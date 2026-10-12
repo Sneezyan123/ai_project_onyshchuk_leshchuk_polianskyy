@@ -1,0 +1,29 @@
+# дані не комітимо (ліцензія дозволяє, але архіви 4.8 ГБ)
+data/raw/
+data/interim/
+*.zip
+*.parquet
+!data/sample_ids/*.parquet
+
+# моделі й кеші
+models/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# клон шаблону курсу, не наш код
+project-proposal-template/
+Нова папка/
+
+# latex
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.xdv
+*.synctex.gz
+logs/
