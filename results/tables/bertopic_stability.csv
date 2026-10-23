@@ -1,0 +1,4 @@
+pair,ari_with_noise,ari_clustered_only,share_clustered_in_both,k_i,k_j
+0-1,0.666,0.921,0.364,235,224
+0-2,0.703,0.957,0.36,235,237
+1-2,0.679,0.923,0.371,224,237

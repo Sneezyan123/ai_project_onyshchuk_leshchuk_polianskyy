@@ -1,0 +1,5 @@
+model,reference,median_df,zero_pairs,npmi_doc
+LDA K=20,30k,1024.0,0.038,0.171
+LDA K=20,увесь корпус,14188.0,0.03,0.179
+BERTopic mcs=200,30k,20.0,0.51,-0.261
+BERTopic mcs=200,увесь корпус,281.0,0.164,0.173

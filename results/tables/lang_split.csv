@@ -1,0 +1,3 @@
+model,uk_posts,uk_topics,uk_posts_in_uk_topics_%
+LDA K=20,89215,1,97.3
+BERTopic mcs=200 (без шуму),34905,47,82.7
